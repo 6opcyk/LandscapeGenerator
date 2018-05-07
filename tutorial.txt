@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-True
-True
->>>>>>> master
+False
